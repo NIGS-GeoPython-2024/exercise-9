@@ -1,4 +1,4 @@
-# Exercise 2: Comparing data to predictions (20 points)
+# Exercise 9: Comparing data to predictions (20 points)
 
 In this week's exercise we will work on comparing observations (data) to predictions. In particular, we will explore three different ways in which we can compare data to a prediction:
 
@@ -10,26 +10,25 @@ All three of these cases are frequently used, and can even be calculated in comm
 
 ## Completing the exercise
 
-- **Exercise 2 is due by the start of the next lesson (14:15 on 15 November 2021)**.
+- **Exercise 9 is due by the start of the next lesson (on 20 May 2022)**.
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 
 ## Where to find help
 
-- Review the [materials for Lesson 2](https://introqg-site.readthedocs.io/en/latest/lessons/L2/overview.html)
-- Check out the [hints for this week's exercise](https://introqg-site.readthedocs.io/en/latest/lessons/L2/exercise-2.html#general-hints-for-exercise-2) if you're having trouble
+- Review the [materials for Lesson 9](https://geo-python-upd.readthedocs.io/en/latest/lessons/L9/overview.html)
+- Check out the [hints for this week's exercise](https://geo-python-upd.readthedocs.io/en/latest/lessons/L9/exercise-9.html#general-hints-for-exercise-9) if you're having trouble
 - Take a look at the **[PEP 8 - Style guide for Python code](https://www.python.org/dev/peps/pep-0008/)** if you are uncertain about **the style of your code**
 
 ## Before you start
 
-### Clone the Exercise 2 repository
+### Clone the Exercise 9 repository
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 2 repository (e.g., `exercise-2-davewhipp`) in the instance using Git. If you are unaware of how to do this, you can find instruction in [**Lesson 2 of the Geo-Python course**](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
+Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 9 repository (e.g., `exercise-9-jdaled`) in the instance using Git. If you are unaware of how to do this, you can find instruction in [**Lesson 2 of the Geo-Python course**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
 
 ## Start working
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/introqg/notebooks/master?urlpath=lab)
-[![CSC Notebooks](https://img.shields.io/badge/launch-CSC%20notebook-blue.svg)](https://notebooks.csc.fi/#/blueprint/24958184a3954101a2c701b6d1056feb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geopython-upd/notebooks/master?urlpath=lab)
 
 There are 3 problems for this week in one notebook.
 
-- [Problems 1-3: Comparing data to predictions (20 points)](Exercise-2-problems-1-3.ipynb)
+- [Problems 1-3: Comparing data to predictions (20 points)](Exercise-9-problems-1-3.ipynb)
