@@ -23,11 +23,12 @@ All three of these cases are frequently used, and can even be calculated in comm
 
 ### Clone the Exercise 9 repository
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 9 repository (e.g., `exercise-9-jdaled`) in the instance using Git. If you are unaware of how to do this, you can find instruction in [**Lesson 2 of the Geo-Python course**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
+Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 9 repository (e.g., `exercise-9-jdaled`) in the instance using Git. If you are unaware of how to do this, you can find instruction in [**Lesson 2**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
 
 ## Start working
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geopython-upd/notebooks/master?urlpath=lab)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NIGS-GeoPython-2023/exercise-9)
 
 There are 3 problems for this week in one notebook.
 
