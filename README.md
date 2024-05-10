@@ -10,8 +10,8 @@ All three of these cases are frequently used, and can even be calculated in comm
 
 ## Completing the exercise
 
-- **Exercise 9 is due by the start of the next lesson (on 20 May 2022)**.
-- **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
+- **Exercise 9 is due by the start of the next lesson (on 25 May 2024)**.
+- **Remember to save and commit your changes locally, and upload your changes to GitHub after each major change**!
 
 ## Where to find help
 
