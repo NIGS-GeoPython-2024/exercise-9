@@ -28,7 +28,7 @@ Before starting to work with the problems for this week, you should start a new 
 ## Start working
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geopython-upd/notebooks/master?urlpath=lab)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NIGS-GeoPython-2023/exercise-9)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NIGS-GeoPython-2024/exercise-9)
 
 There are 3 problems for this week in one notebook.
 
